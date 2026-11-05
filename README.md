@@ -1,18 +1,28 @@
-# 🔐 Cybersecurity Virtual Lab | Kali Linux & VirtualBox
+# 🔐 Cybersecurity Virtual Lab
+
+<h3 align="center">Kali Linux | VirtualBox | Windows 11</h3>
 
 <p align="center">
   <strong>Building a Hands-on Cybersecurity Learning Environment</strong>
-  <br/>
+  <br>
   Virtualization • Linux • Networking • Ethical Hacking
 </p>
 
 <p align="center">
-  ![Windows 11](https://img.shields.io/badge/Host-Windows%2011-blue?logo=windows11)
-  ![VirtualBox](https://img.shields.io/badge/VirtualBox-Virtualization-blue?logo=virtualbox)
-  ![Kali Linux](https://img.shields.io/badge/OS-Kali%20Linux-557C94?logo=kalilinux)
-  ![Cybersecurity](https://img.shields.io/badge/Domain-Cybersecurity-red)
-  ![Status](https://img.shields.io/badge/Status-Completed-success)
+  <img src="https://img.shields.io/badge/Host-Windows%2011-blue?logo=windows11" alt="Windows 11">
+  <img src="https://img.shields.io/badge/VirtualBox-Virtualization-183A61?logo=virtualbox" alt="VirtualBox">
+  <img src="https://img.shields.io/badge/OS-Kali%20Linux-557C94?logo=kalilinux" alt="Kali Linux">
+  <img src="https://img.shields.io/badge/Domain-Cybersecurity-red" alt="Cybersecurity">
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/RAM-2GB-orange">
+  <img src="https://img.shields.io/badge/CPU-2%20Cores-blue">
+  <img src="https://img.shields.io/badge/Network-NAT%20Network-green">
+  <img src="https://img.shields.io/badge/Storage-20GB-lightgrey">
+</p>
+
+---
 
 ---
 
